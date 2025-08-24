@@ -19,6 +19,8 @@ Instructions for downloading SBD and PASCAL VOC 2012 datasets are available here
 
 ## Models
 
+The following models were fine-tuned on the training dataset: 
+
 SegFormer: https://huggingface.co/nvidia/segformer-b0-finetuned-ade-512-512
 
 MaskFormer: https://huggingface.co/facebook/maskformer-swin-tiny-ade
